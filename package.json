@@ -1,6 +1,6 @@
 {
   "name": "node-wisunrb",
-  "version": "0.1.0",
+  "version": "0.1.0-patched",
   "description": "node-wisunrb は Wi-SUN ECHONET Profile for Route B に対応した USB ドングルを経由して家庭用電力量スマートメーター (低圧スマート電力量メーター) にアクセスします。ECHONET Lite 規格の「低圧スマート電力量メータクラス」に規定されたすべてのプロパティをサポートします。",
   "main": "./lib/wisunrb.js",
   "files": [
